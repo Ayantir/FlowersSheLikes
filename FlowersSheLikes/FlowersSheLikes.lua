@@ -27,7 +27,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 -- Init
 local ADDON_NAME = "FlowersSheLikes"
 local ADDON_AUTHOR = "Ayantir"
-local ADDON_VERSION = "11"
+local ADDON_VERSION = "12"
 local ADDON_WEBSITE = "http://www.esoui.com/downloads/info933-FlowersSheLikes.html"
 
 local db

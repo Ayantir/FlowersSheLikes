@@ -6,9 +6,9 @@
 
 ## Title: Flowers She Likes
 ## Description: Change the color names of flowers you like
-## Version: 11
+## Version: 12
 ## Author: Ayantir
-## APIVersion: 100020
+## APIVersion: 100021
 ## SavedVariables: FLOWERS
 ## OptionalDependsOn: LibAddonMenu-2.0
 
